@@ -1,0 +1,1 @@
+2026-04-17 10:36:43.045 [info] l10n: Configured to https://ms-ceintl.vscode-unpkg.net/MS-CEINTL/vscode-language-pack-es/1.110.2026041514/extension/translations/extensions/vscode.json-language-features.i18n.json
